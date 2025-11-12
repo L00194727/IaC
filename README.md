@@ -11,7 +11,7 @@ This repo is for the IaC module.
 [Week4](https://github.com/L00194727/IaC/tree/main/Week4)  
 [Week 5 DOS](https://github.com/L00194727/IaC/tree/main/DOS)  
 [Week 6 Linux Bash Scripts](https://github.com/L00194727/IaC/tree/main/Linux)
-
+[Week 7 PowerShell Scripts](https://github.com/L00194727/IaC/tree/main/PowerShell)
 It contains reports and script files for the IaC Module.
 
 ## Dependencies
